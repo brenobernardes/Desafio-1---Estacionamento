@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\desafiofundamentos\\DesafioFundamentos.csproj": {}
+    "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\desafiofundamentos\\DesafioFundamentos.csproj": {
+    "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\desafiofundamentos\\DesafioFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\desafiofundamentos\\DesafioFundamentos.csproj",
+        "projectPath": "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "packagesPath": "C:\\Users\\breno.bernardes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\desafiofundamentos\\obj\\",
+        "outputPath": "C:\\Users\\breno.bernardes\\Projetos\\desafio1-C#\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
